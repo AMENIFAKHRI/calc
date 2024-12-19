@@ -1,0 +1,8 @@
+gg malek bizerte 4 18 0 1 0 10 20
+ff hazem ariana 24 4 2 1 0 22 11
+ee dali ariana 4 33 0 1 0 22 11
+jj 3issam ariana 1 36 1 1 1 22 11
+zz zied medenine 1 36 2 0 1 22 11
+cc jihed bizerte 23 36 2 0 1 22 11
+nn hazem medenine 24 11 0 1 0 cx cv
+

@@ -1,0 +1,4 @@
+
+1;ameni;amouna;3;3;3;1;sliana;ameni@gmail.com;123456;12450;78544;ameni;120;audi;premier
+123456;ridha;fakhri;1;1;1;0;tunis;fakhri@;25426115;2075;123;rs;210;kia;vip
+14510891;fakhri;ameni;1;1;1;1;tunis;fakhri@gmail.com;56426115;2075;123;rien;210;kia;vip
